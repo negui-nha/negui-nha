@@ -1,16 +1,17 @@
-## Hi there 👋
+### Bem Vindos ao meu Perfil 💙
 
-<!--
-**negui-nha/negui-nha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Tayla de Jesus Feital
 
-Here are some ideas to get you started:
+-Estou estudando no Alura 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem JavaScrip
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você entrar em contato comigo 📫
+
+feitaltayla89@gmail.co1'2
+
+tayyfeitaal
+
+![image](https://github.com/user-attachments/assets/d0ddbd13-b1dd-4c7b-9f98-6fa8d174fc21)
